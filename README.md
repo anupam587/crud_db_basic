@@ -3,6 +3,10 @@ For this PHP and Codeigniter MVC framework has been used.
 
 After downloading add crud_db_basic folder to the root directory of the server.
 
+Application can be accessed by following url on the localhost server.
+http://localhost/crud_db_basic/index.php/db_basic
+http://localhost/crud_db_basic/db_basic
+
 Currently login access for mysql database is: user 'root' & password: 'anupam'
 this can be modified inside the controller/db_basic.php constuctor
 
